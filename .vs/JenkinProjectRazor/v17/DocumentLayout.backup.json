@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Dockerfile",
               "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Dockerfile",
               "RelativeToolTip": "JenkinProjectRazor\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-25T09:38:00.63Z",
               "EditorCaption": ""
@@ -155,8 +155,7 @@
               "RelativeToolTip": "NunitTestUnit\\UnitTest1.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:19:24.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T09:19:24.215Z"
             },
             {
               "$type": "Document",

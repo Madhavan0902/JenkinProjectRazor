@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{25D3A687-599D-415C-96D8-12EFD93A222A}|JenkinProjectRazor\\JenkinProjectRazor.csproj|solutionrelative:jenkinprojectrazor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{25D3A687-599D-415C-96D8-12EFD93A222A}|JenkinProjectRazor\\JenkinProjectRazor.csproj|d:\\tools\\project\\assessments\\jenkins\\jenkinprojectrazor\\jenkinprojectrazor\\jenkinprojectrazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25D3A687-599D-415C-96D8-12EFD93A222A}|JenkinProjectRazor\\JenkinProjectRazor.csproj|solutionrelative:jenkinprojectrazor\\jenkinprojectrazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F10AA35-C915-4C9E-BF18-0F8FA7CCFE14}|NunitTestUnit\\NunitTestUnit.csproj|d:\\tools\\project\\assessments\\jenkins\\jenkinprojectrazor\\nunittestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F10AA35-C915-4C9E-BF18-0F8FA7CCFE14}|NunitTestUnit\\NunitTestUnit.csproj|solutionrelative:nunittestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 15,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +66,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JenkinProjectRazor",
+              "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\JenkinProjectRazor.csproj",
+              "RelativeDocumentMoniker": "JenkinProjectRazor\\JenkinProjectRazor.csproj",
+              "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\JenkinProjectRazor.csproj",
+              "RelativeToolTip": "JenkinProjectRazor\\JenkinProjectRazor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T09:51:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Dockerfile",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Dockerfile",
               "ToolTip": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Dockerfile",
               "RelativeToolTip": "JenkinProjectRazor\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-25T09:38:00.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Pages\\Error.cshtml",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Pages\\_ViewStart.cshtml",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Pages\\_ViewImports.cshtml",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Pages\\Shared\\_Layout.cshtml",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Pages\\Index.cshtml",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Pages\\Privacy.cshtml",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\NunitTestUnit\\UnitTest1.cs",
               "RelativeDocumentMoniker": "NunitTestUnit\\UnitTest1.cs",
@@ -159,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Tools\\Project\\Assessments\\Jenkins\\JenkinProjectRazor\\JenkinProjectRazor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "JenkinProjectRazor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
