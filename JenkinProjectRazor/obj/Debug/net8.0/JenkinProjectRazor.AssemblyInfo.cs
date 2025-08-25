@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("5d349d4c-3778-42ac-a10c-0c4ec1ee7df5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinProjectRazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c4c539b6092b0f90004ea93ba7ad5918d31fdc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50f7f6d151acf17b36193dfa70d30648312782c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinProjectRazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinProjectRazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

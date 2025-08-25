@@ -1,0 +1,9 @@
+è
+ÉD:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\obj\Debug\net8.0\JenkinProjectRazor.RazorAssemblyInfo.csutf-8â
+~D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\obj\Debug\net8.0\JenkinProjectRazor.AssemblyInfo.csutf-8ñ
+äD:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8å
+ÄD:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\obj\Debug\net8.0\JenkinProjectRazor.GlobalUsings.g.csutf-8k
+bD:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\Pages\Privacy.cshtml.csutf-8^
+UD:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\Program.csutf-8i
+`D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\Pages\Index.cshtml.csutf-8i
+`D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\Pages\Error.cshtml.csutf-8

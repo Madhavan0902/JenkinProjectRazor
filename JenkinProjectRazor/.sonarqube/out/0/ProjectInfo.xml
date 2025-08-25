@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>JenkinProjectRazor</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>e3b11f9d-5ff6-4d6e-baf0-55e68934ac3e</ProjectGuid>
+  <FullPath>D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\JenkinProjectRazor.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\.sonarqube\conf\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\.sonarqube\out\0</Property>
+    <Property Name="sonar.cs.scanner.telemetry">D:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\.sonarqube\out\0\Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

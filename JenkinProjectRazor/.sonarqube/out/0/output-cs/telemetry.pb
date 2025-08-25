@@ -1,0 +1,1 @@
+zRdD:\Tools\Project\Assessments\Jenkins\JenkinProjectRazor\JenkinProjectRazor\JenkinProjectRazor.csproj¢net8.0òCSharp12
