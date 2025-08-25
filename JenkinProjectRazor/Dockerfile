@@ -10,7 +10,7 @@ ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
 # Copy the .csproj file and restore dependencies
-COPY ["JenkinProjectRazor/JenkinProjectRazor.csproj", "JenkinProjectRazor/"]
+COPY ["JenkinProjectRazor.csproj", "/."]
 RUN dotnet restore "JenkinProjectRazor/JenkinProjectRazor.csproj"
 
 # Copy the rest of the source code and build the project
